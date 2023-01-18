@@ -16,7 +16,7 @@ export default function Sidebar({ menu }) {
         style={{ height: "100vh" }}
       >
         <div className=" m-2 h-11">
-          <img style={{ height: "100%" }} className="mx-auto" src="/drdongphuong-logo.png" alt="drdongphuong" />
+          <img style={{ height: "100%" }} className="mx-auto" src="/logo.png" alt="drdongphuong" />
         </div>
         {menu}
       </Sider>

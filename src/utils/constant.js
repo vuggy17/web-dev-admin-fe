@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
-export const HOST_NAME = process.env.REACT_APP_HOSTNAME;
-export const BASE_URL = process.env.REACT_APP_BASE_URL;
-export const CLIENT_URL = process.env.REACT_APP_CLIENT;
+export const HOST_NAME = process.env.REACT_APP_HOSTNAME || "https://web-dev-be-production.up.railway.app";
+export const BASE_URL = process.env.REACT_APP_BASE_URL || "https://web-dev-be-production.up.railway.app/api";
+export const CLIENT_URL = process.env.REACT_APP_CLIENT || "http://localhost:3000";
 
 export const BLOG_STATUS = {
   publish: "publish",

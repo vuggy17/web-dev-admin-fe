@@ -48,7 +48,7 @@ export default function Login() {
       <div className="bg-gray-50 flex flex-col justify-between">
         <div>
           <div className="pt-10 w-full">
-            <img width="200px" className="mx-auto" src="/drdongphuong-logo.png" alt="drdongphuong" />
+            <img width="200px" className="mx-auto" src="/logo.png" alt="drdongphuong" />
           </div>
           <div className="mt-28 flex flex-col items-start px-6 w-full md:w-2/3 m-auto">
             <div className="flex flex-col  items-start sm:flex-row ">
