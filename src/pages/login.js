@@ -124,7 +124,7 @@ export default function Login() {
           <span className="text-xs text-gray-400 mr-1 ">Copyright © 2021 </span>
 
           <a href="#" className="font-bold">
-            drdongphuong
+            www.lunistories.com
           </a>
         </div>
       </div>
